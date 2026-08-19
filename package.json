@@ -1,6 +1,6 @@
 {
   "name": "eccrypto",
-  "version": "1.1.6",
+  "version": "1.1.6-lineaje-01",
   "description": "JavaScript Elliptic curve cryptography library",
   "main": "index.js",
   "browser": "browser.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitchan/eccrypto.git"
+    "url": "https://github.com/lineaje-labs-gos/bitchan-eccrypto"
   },
   "keywords": [
     "ecc",
@@ -31,6 +31,12 @@
   ],
   "author": "Kagami Hiiragi",
   "license": "CC0-1.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/bitchan/eccrypto/issues"
   },
